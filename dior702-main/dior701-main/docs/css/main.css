@@ -130,7 +130,15 @@ p, li {
     /* font-family: 'Gowun Batang', serif; */
     color: #191D27;
     font-weight: 700;
-    font-size: 9.5rem;
+    font-size: 7.5rem;
+    line-height: 1.1;
+}
+.grey11rem {
+    font-family: 'Montserrat';
+    /* font-family: 'Gowun Batang', serif; */
+    color: #191D27;
+    font-weight: 700;
+    font-size: 7.5rem;
     line-height: 1.1;
 }
 .grey9rem {
@@ -326,7 +334,7 @@ a:hover {
     height: 4rem;
 }
 .dummy18 {
-    height: 6rem;
+    height: 8rem;
 }
 
 .dummy02 {
