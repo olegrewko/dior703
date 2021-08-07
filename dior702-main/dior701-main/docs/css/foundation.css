@@ -4331,7 +4331,7 @@ screen and (min-width: 64em) {
 }
 
 .button.hollow.secondary {
-  border: 0px solid black;
+  border: 0px solid silver;
   color: black;
 }
 

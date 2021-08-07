@@ -112,12 +112,12 @@ p, li {
 .pr {
     padding-right: 1 rem;
 }
-grey {
+.grey {
     font-family: 'Montserrat';
     /* font-family: 'Gowun Batang', serif; */
     color: #191D27; 
 }
-.grey10rem {
+.grey9rem {
     font-family: 'Montserrat';
     /* font-family: 'Gowun Batang', serif; */
     color: #191D27;
@@ -125,12 +125,20 @@ grey {
     font-size: 6.5rem;
     line-height: 1.1;
 }
+.grey10rem {
+    font-family: 'Montserrat';
+    /* font-family: 'Gowun Batang', serif; */
+    color: #191D27;
+    font-weight: 700;
+    font-size: 9.5rem;
+    line-height: 1.1;
+}
 .grey9rem {
     font-family: 'Montserrat';
     /* font-family: 'Gowun Batang', serif; */
     color: #191D27;
     font-weight: 500;
-    font-size: 4.5rem;
+    font-size: 6.5rem;
     line-height: 1.1;
 }
 .grey6rem {
@@ -388,7 +396,7 @@ h3,
 h4,
 h5 {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
+    font-weight: 300;
     color: #1a1b1b;
 
 }
